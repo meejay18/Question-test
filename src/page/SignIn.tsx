@@ -27,7 +27,7 @@ const LoginScreen = () => {
   };
   return (
     <div className="ml-6 mt-20">
-      <h1>Amazing Login Screen</h1>
+      <h1>Login Screen</h1>
       <form className="flex flex-col w-[400px]" onSubmit={handleSubmit}>
         <input
           type="email"
